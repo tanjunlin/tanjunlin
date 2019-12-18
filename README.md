@@ -1,2 +1,1 @@
-# tanjunlin
-just for study
+just for text.
